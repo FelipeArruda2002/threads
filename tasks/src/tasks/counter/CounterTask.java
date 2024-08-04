@@ -1,4 +1,4 @@
-package tasks;
+package tasks.counter;
 
 public class CounterTask implements Runnable {
 	

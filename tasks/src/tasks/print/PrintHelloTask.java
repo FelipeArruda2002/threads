@@ -1,4 +1,4 @@
-package tasks;
+package tasks.print;
 
 public class PrintHelloTask implements Runnable {
 	
